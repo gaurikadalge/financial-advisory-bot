@@ -306,25 +306,3 @@ Special thanks to the open-source community and the powerful technologies that m
 <div align="center"><p>Built with ❤️ and a passion for democratizing financial intelligence. Let's make sophisticated financial analysis accessible to everyone.</p></div>
 
 ---
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Adii0906"><img src="https://avatars.githubusercontent.com/u/142430112?v=4?s=100" width="100px;" alt="Aditya007"/><br /><sub><b>Aditya007</b></sub></a><br /><a href="https://github.com/rudrikasharma15/financial-advisory-bot/commits?author=Adii0906" title="Code">💻</a> <a href="https://github.com/rudrikasharma15/financial-advisory-bot/commits?author=Adii0906" title="Documentation">📖</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
