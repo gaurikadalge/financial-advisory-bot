@@ -32,7 +32,7 @@ The power to make informed financial decisions has traditionally been reserved f
 
 This project provides a complete, open-source solution for intelligent financial analysis and decision-making. It's not just another stock tracker; it's a comprehensive financial intelligence platform that combines cutting-edge AI with real-world market data. Whether you're a developer building fintech solutions, an investor seeking deeper insights, or a student learning quantitative finance, this project is designed for you.
 
-**This project welcomes GSSoC '25 contributors**, built to showcase the power of modern financial AI and open-source collaboration.
+**This project welcomes all open source contributors**, built to showcase the power of modern financial AI and open-source collaboration.
 
 ### 🔥 Core Features
 
